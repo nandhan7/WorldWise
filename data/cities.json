@@ -1,0 +1,184 @@
+{
+  "cities": [
+    {
+      "id": "8bb5",
+      "cityName": "Winscales",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-06-19T16:21:15.222Z",
+      "notes": "",
+      "position": {
+        "lat": "54.619752426788864",
+        "lng": "-3.517916889870508"
+      }
+    },
+    {
+      "id": "858f",
+      "cityName": "England",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-06-19T16:21:21.594Z",
+      "notes": "",
+      "position": {
+        "lat": "51.47411106031604",
+        "lng": "1.2634371162780547"
+      }
+    },
+    {
+      "id": "6bef",
+      "cityName": "Lasne",
+      "country": "Belgium",
+      "emoji": "🇧🇪",
+      "date": "2024-06-19T16:21:30.808Z",
+      "notes": "",
+      "position": {
+        "lat": "50.702636144813674",
+        "lng": "4.47216868347403"
+      }
+    },
+    {
+      "id": "9b8c",
+      "cityName": "Baie des Anges",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-06-19T17:52:54.563Z",
+      "notes": "",
+      "position": {
+        "lat": "43.67460921492136",
+        "lng": "7.243266564558397"
+      }
+    },
+    {
+      "id": "d590",
+      "cityName": "Balearic Sea",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-06-19T18:30:46.636Z",
+      "notes": "",
+      "position": {
+        "lat": "41.10344257883262",
+        "lng": "1.449097115270366"
+      }
+    },
+    {
+      "id": "7492",
+      "cityName": "Khalwa",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-06-20T06:04:00.629Z",
+      "notes": "",
+      "position": {
+        "lat": "21.83090666506977",
+        "lng": "76.70654296875001"
+      }
+    },
+    {
+      "id": "1208",
+      "cityName": "Rixheim",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-06-20T06:10:31.661Z",
+      "notes": "",
+      "position": {
+        "lat": "47.746711194756",
+        "lng": "7.415771484375001"
+      }
+    },
+    {
+      "id": "d89f",
+      "cityName": "La Chatre",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-06-20T06:48:10.217Z",
+      "notes": "",
+      "position": {
+        "lat": "46.5739667965278",
+        "lng": "1.9775390625000002"
+      }
+    },
+    {
+      "id": "091e",
+      "cityName": "Lles de Cerdanya",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-06-20T08:27:41.117Z",
+      "notes": "",
+      "position": {
+        "lat": "42.391008609205045",
+        "lng": "1.6699218750000002"
+      }
+    },
+    {
+      "id": "8e67",
+      "cityName": "Navalpino",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-06-20T13:50:45.850Z",
+      "notes": "It was amazing trip",
+      "position": {
+        "lat": "39.20201033700019",
+        "lng": "-4.5680088015563545"
+      }
+    },
+    {
+      "id": "35ac",
+      "cityName": "Colonesti",
+      "country": "Romania",
+      "emoji": "🇷🇴",
+      "date": "2024-06-20T16:49:15.418Z",
+      "notes": "",
+      "position": {
+        "lat": "44.67644216350554",
+        "lng": "24.65156889778667"
+      }
+    },
+    {
+      "id": "85cc",
+      "cityName": "Mediterranean Sea",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-06-20T16:51:01.854Z",
+      "notes": "",
+      "position": {
+        "lat": "36.98743897115717",
+        "lng": "3.276420616245752"
+      }
+    },
+    {
+      "id": "8619",
+      "cityName": "Kozhikode",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-06-24T10:06:52.786Z",
+      "notes": "",
+      "position": {
+        "lat": "11.27677674228533",
+        "lng": "75.9714222119994"
+      }
+    },
+    {
+      "id": "2623",
+      "cityName": "Zalesie",
+      "country": "Slovakia",
+      "emoji": "🇸🇰",
+      "date": "2024-06-28T19:40:37.929Z",
+      "notes": "",
+      "position": {
+        "lat": "48.175811099124566",
+        "lng": "17.295606557358575"
+      }
+    },
+    {
+      "id": "7746",
+      "cityName": "Corpa",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-06-29T04:44:55.441Z",
+      "notes": "retykm",
+      "position": {
+        "lat": "40.416630884610434",
+        "lng": "-3.2270631213759438"
+      }
+    }
+  ]
+}
